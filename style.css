@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+header{
+    background-image:url("images/logo.jpeg");
+    background-repeat:no-repeat;
+    
+    background-size: contain;
+    width:100%;
+    color:black;
+    height:150px;
+    line-height: 500px;
+    margin-bottom:20px;
+}
+h1{
+    text-align: center;
+    vertical-align: middle;
+}
+#band-practice{
+    margin:35px;
+    width:500px;
+    float:left;
+}
+.bio{
+    margin-top:25px;
+    margin-bottom:25px;
+}
+.bio h2{
+    padding-top:35px;
+    padding-right:35px;
+}
+.bio p{
+    padding-right:25px; 
+}
+.music{
+    text-align: center;
+}
+.stream-links img{
+    width:50px;
+    margin:15px;
+}
+.photos{
+    text-align: center;
+}
+.live{
+    text-align: center;
+}
+.live iframe{
+    margin:35px;
+}
+.contact{
+    text-align: center;
+}
+.socials img{
+    width:40px;
+}
+.photos img{
+    width:400px;
+}
