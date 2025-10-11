@@ -69,10 +69,7 @@ h1 {
     width: 40px;
 }
 
-.photos img {
-    max-width: 400px;
-    max-height: 200px
-}
+
 
 a {
     color: #FFFFFF;
@@ -177,4 +174,5 @@ a {
         opacity: 1
     }
 }
+
 
